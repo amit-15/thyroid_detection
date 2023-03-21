@@ -13,7 +13,7 @@ def get_requirements()->List[str]:
     return requirement_list
 
 setup(
-    name="Thyroid_Detection",
+    name="thyroid",
     version="0.0.1",
     author="Amit_Kumar_Tiwari",
     author_email="amitkumartiwaree.akt@gmail.com",
