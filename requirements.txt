@@ -1,2 +1,6 @@
 pymongo==4.2.0
 pymongo[srv]==4.2.0
+numpy
+pandas
+scikit-learn
+from-root
